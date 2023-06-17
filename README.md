@@ -4,4 +4,4 @@
 
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
 
-![CI](https://github.com/Cesaress/ahj-homework-1.1/actions/workflows/github-actions-demo.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/q13wqctg2x3jgjto?svg=true)](https://ci.appveyor.com/project/Cesaress/ahj-homework-1-1)
